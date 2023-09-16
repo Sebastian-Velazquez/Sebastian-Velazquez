@@ -50,7 +50,7 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 
 ## Contacto
 - 📫 Puedes contactarme por correo electrónico: [tu correo electrónico](mailto:sergiovelazquez1693@gmail.com).
-- 🔗 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/sergio-sebastian-velazquez-2a1831148/).
+- [![Símbolo de LinkedIn](https://path/to/your/linkedin-icon.png)](om/in/sergio-sebastian-velazquez-2a1831148/)
 - 🐦 Sígueme en [Twitter](https://twitter.com/SebaSV1693).
 
 ## Agradecimientos
