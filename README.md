@@ -42,8 +42,8 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 
 ## Habilidades y Tecnologías
 
-- **Lenguajes de Programación:** [Javascript, PHP, MySql].
-- **Frameworks y Herramientas:** [Node Js, Express, Nest Js, Laravel, MySql, MongoDB, Visual Studios, Apache, linux].
+- **Lenguajes de Programación:** Javascript, PHP, MySql.
+- **Frameworks y Herramientas:** Node Js, Express, Nest Js, Laravel, MySql, MongoDB, Visual Studios, Apache, linux.
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sebastian-Velazquez&show_icons=true&hide=contribs,prs&theme=radical)
