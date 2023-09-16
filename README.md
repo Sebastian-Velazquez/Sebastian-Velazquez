@@ -4,8 +4,8 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 
 ## Acerca de mí
 - 🌱 Actulmente estoy en constante aprendizaje y me encanta explorar nuevas tecnologías y frameworks.
-- 💬 Puedes preguntarme acerca de: ![Icono de JavaScript](https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png)
--<img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" alt="Icono de JavaScript" width="100" height="100">
+- 💬 Puedes preguntarme acerca de: 
+-<img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" alt="Icono de JavaScript" width="100">
 
 -
 - ![Icono de Node Js](https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg)![Icono de PHP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw3onXLRliPMfhp74y-bC6RO&ust=1694983814824000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIilhfSAsIEDFQAAAAAdAAAAABAE).[Icono de Laravel](https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg)
