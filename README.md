@@ -1,14 +1,11 @@
-# Hola, soy Seba] 👋
+# Hola, soy Seba 👋
 
 Soy un apasionado programador en diversas tecnologías y proyectos interesantes. Bienvenido a mi perfil de GitHub, donde podrás encontrar una muestra de mis trabajos y contribuciones.
 
 ## Acerca de mí
 - 🌱 Actulmente estoy en constante aprendizaje y me encanta explorar nuevas tecnologías y frameworks.
 - 💬 Puedes preguntarme acerca de: 
--<img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" alt="Icono de JavaScript" width="100">
-<img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="Icono de Node js Express" width="100">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw3onXLRliPMfhp74y-bC6RO&ust=1694983814824000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIilhfSAsIEDFQAAAAAdAAAAABAE" alt="Icono de Node js PHP" width="100">
-<img src="https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg" alt="Icono de Node js Laravel" width="100">
+-<img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" alt="Icono de JavaScript" width="100">-<img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="Icono de Node js Express" width="100">-<img src="https://assets.zabbix.com/img/brands/php.svg" alt="Icono de PHP" width="100">-<img src="https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg" alt="Icono de Node js Laravel" width="100">
 
 ## Mis Proyectos Destacados
 
