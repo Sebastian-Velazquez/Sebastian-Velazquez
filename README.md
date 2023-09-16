@@ -49,9 +49,9 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sebastian-Velazquez&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## Contacto
- 📫 Puedes contactarme por correo electrónico: [tu correo electrónico](mailto:sergiovelazquez1693@gmail.com).
-   <a href="https://www.linkedin.com/in/sergio-sebastian-velazquez-2a1831148/" ><img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="60" > </a>
- 🐦  [Twitter](https://twitter.com/SebaSV1693).
+ - 📫 Puedes contactarme por correo electrónico: [tu correo electrónico](mailto:sergiovelazquez1693@gmail.com).
+ - <a href="https://www.linkedin.com/in/sergio-sebastian-velazquez-2a1831148/" ><img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="60" > </a>
+ - 🐦  [Twitter](https://twitter.com/SebaSV1693).
 
 ## Agradecimientos
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos. No dudes en contactarme si tienes alguna pregunta o sugerencia.
