@@ -4,7 +4,7 @@ Soy un apasionado programador con experiencia en diversas tecnologías y proyect
 
 ## Acerca de mí
 - 🌱 Actulmente estoy en constante aprendizaje y me encanta explorar nuevas tecnologías y frameworks.
-- 💬 Puedes preguntarme acerca de: \(\JavaScript\).
+- 💬 Puedes preguntarme acerca de: ![Icono de JavaScript](https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png).
 
 ## Mis Proyectos Destacados
 
