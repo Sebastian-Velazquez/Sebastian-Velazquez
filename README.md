@@ -25,7 +25,7 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
         Este Panel de Adminsitrador cuanta con la función de agregar nuevas categorias y material, tambien de volver a recuperar lo productos que fueron eliminados (antes de dar de alta se va a edicióon para cambiar detalles como el stock y el precio). También cuenta con la función de cambiar el banner a gusto. 
    - Tecnologías utilizadas:Node Js(Express), Mongo DB Atlas, Mongoose, Bootstrap, HTML, CSS.
 
-4. **[Curso PHP](https://github.com/Sebastian-Velazquez/Master-php-sql-poo-mvc-laravel-symfony-wordpress)**:
+4. **[Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +](https://github.com/Sebastian-Velazquez/Master-php-sql-poo-mvc-laravel-symfony-wordpress)**:
 Máster completo en el que aprenderemos:
    Programación desde cero y paso a paso, sin necesidad de tener conocimientos previos.
    PHP 8, el lenguaje de programación para el back-end más popular en la actualidad.
