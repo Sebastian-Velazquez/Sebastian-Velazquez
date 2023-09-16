@@ -10,9 +10,11 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 
 ## Mis Proyectos Destacados
 
-1. **[Nombre del Proyecto 1](enlace-al-proyecto-1)**:
-   - Breve descripción del proyecto 1.
-   - Tecnologías utilizadas: lista de tecnologías.
+1. **[Concesionaria](https://github.com/Sebastian-Velazquez/Concesionaria-NodeJS-Express-SQL)**:
+   - Proyecto grupal del curso de del curso de Digital House. Se trata de una gestion de autos en venta. -
+         * Login y registro de usuario con dos niveles de permisos, con permisos de ruta y criptación de contraseña.
+         * CRUD y con e detalle que si eliminas u producto este no se destruye sino que que el false y no se muestra en la página. 
+   - Tecnologías utilizadas: Node Js(Express), Mysql, sequalize, html, css-
 
 2. **[Nombre del Proyecto 2](enlace-al-proyecto-2)**:
    - Breve descripción del proyecto 2.
@@ -27,14 +29,11 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sebastian-Velazquez&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## Contacto
-- 📫 Puedes contactarme por correo electrónico: [tu correo electrónico](mailto:tuemail@example.com).
-- 🔗 Encuéntrame en [LinkedIn](enlace-a-tu-perfil-de-LinkedIn).
-- 🐦 Sígueme en [Twitter](enlace-a-tu-perfil-de-Twitter).
+- 📫 Puedes contactarme por correo electrónico: [tu correo electrónico](mailto:sergiovelazquez1693@gmail.com).
+- 🔗 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/sergio-sebastian-velazquez-2a1831148/).
+- 🐦 Sígueme en [Twitter](https://twitter.com/SebaSV1693).
 
 ## Agradecimientos
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos. No dudes en contactarme si tienes alguna pregunta o sugerencia.
 
----
-
-**Nota:** Reemplaza los placeholders (como "Tu Nombre/Apodo", "Nombre del Proyecto 1", etc.) con tu propia información y enlaces.
 
