@@ -26,19 +26,20 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
    - Tecnologías utilizadas:Node Js(Express), Mongo DB Atlas, Mongoose, Bootstrap, HTML, CSS.
 
 4. **[Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +](https://github.com/Sebastian-Velazquez/Master-php-sql-poo-mvc-laravel-symfony-wordpress)**:
+   
 Máster completo en el que aprenderemos:
-   Programación desde cero y paso a paso, sin necesidad de tener conocimientos previos.
-   PHP 8, el lenguaje de programación para el back-end más popular en la actualidad.
-   Bases de datos relacionales, su diseño y creación desde cero (MySQL).
-   SQL, desde cero hasta hacer consultas complejas y profesionales.
-   Maquetación web, creando varios proyectos web.
-   POO, Programación Orientada a Objetos en PHP.
-   MVC, el patrón de diseño más popular en la web.
-   Librerías y frameworks, para dar el salto profesional con PHP.
-   Laravel, el framework para PHP más popular.
-   Symfony, el framework PHP más moderno y demandado por las empresas.
-   WordPress, el gestor de contenidos líder en Internet.
-   Habilidades full-stack, haciendo cientos de ejercicios y muchos proyectos completos.
+      - Programación desde cero y paso a paso, sin necesidad de tener conocimientos previos.
+      - PHP 8, el lenguaje de programación para el back-end más popular en la actualidad.
+      - Bases de datos relacionales, su diseño y creación desde cero (MySQL).
+      - SQL, desde cero hasta hacer consultas complejas y profesionales.
+      - Maquetación web, creando varios proyectos web.
+      - POO, Programación Orientada a Objetos en PHP.
+      - MVC, el patrón de diseño más popular en la web.
+      - Librerías y frameworks, para dar el salto profesional con PHP.
+      - Laravel, el framework para PHP más popular.
+      - Symfony, el framework PHP más moderno y demandado por las empresas.
+      - WordPress, el gestor de contenidos líder en Internet.
+      - Habilidades full-stack, haciendo cientos de ejercicios y muchos proyectos completos.
 
 ## Habilidades y Tecnologías
 
