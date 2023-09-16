@@ -26,8 +26,7 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
    - Tecnologías utilizadas:Node Js(Express), Mongo DB Atlas, Mongoose, Bootstrap, HTML, CSS.
 
 4. **[Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +](https://github.com/Sebastian-Velazquez/Master-php-sql-poo-mvc-laravel-symfony-wordpress)**:
-   - Trabajo realizado para la venta de insumos informaticos. Cunta con login, registro, crud, panel de administrador.
-Máster completo en el que aprenderemos:
+   - Máster completo en el que aprenderemos:
       - Programación desde cero y paso a paso, sin necesidad de tener conocimientos previos.
       - PHP 8, el lenguaje de programación para el back-end más popular en la actualidad.
       - Bases de datos relacionales, su diseño y creación desde cero (MySQL).
