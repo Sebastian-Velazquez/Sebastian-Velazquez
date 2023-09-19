@@ -27,7 +27,7 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 
 4. **[Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +](https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress/)**:
    
-   **[GitHub Repositorio](https://github.com/Sebastian-Velazquez/Master-php-sql-poo-mvc-laravel-symfony-wordpress)
+   **[GitHub Repositorio](https://github.com/Sebastian-Velazquez/Master-php-sql-poo-mvc-laravel-symfony-wordpress)**
    - Máster completo en el que aprenderemos:
       - Programación desde cero y paso a paso, sin necesidad de tener conocimientos previos.
       - PHP 8, el lenguaje de programación para el back-end más popular en la actualidad.
