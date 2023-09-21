@@ -6,7 +6,7 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 - 🌱 Actulmente estoy en constante aprendizaje y me encanta explorar nuevas tecnologías y frameworks.
 - 💬 Puedes preguntarme acerca de:
 
-<img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" alt="Icono de HTml, CSS y JavaScript " width="100"><img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="Icono de Node js Express" width="100"><img src="https://assets.zabbix.com/img/brands/php.svg" alt="Icono de PHP" width="100"><img src="https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg" alt="Icono de Node js Laravel" width="100"><img src="https://ucarecdn.com/0295176b-b17a-4106-b3b0-5bf2b14365e6/" alt="Icono de Node js Laravel" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="Icono de Node js Laravel" width="100">
+<img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" alt="Icono de HTml, CSS y JavaScript " width="100"><img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="Icono de Node js Express" width="100"><img src="https://assets.zabbix.com/img/brands/php.svg" alt="Icono de PHP" width="100"><img src="https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg" alt="Icono de Node js Laravel" width="100"><img src="https://ucarecdn.com/0295176b-b17a-4106-b3b0-5bf2b14365e6/" alt="Icono de Node js Laravel" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="Icono de Node js Laravel" width="150">
 
 ## Mis Proyectos Destacados
 
