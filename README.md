@@ -11,18 +11,18 @@ Soy un apasionado programador en diversas tecnologías y proyectos interesantes.
 ## Mis Proyectos Destacados
 
 1. **[Concesionaria](https://github.com/Sebastian-Velazquez/Concesionaria-NodeJS-Express-SQL)**:
-   - Proyecto grupal del curso de del curso de Digital House. Se trata de una gestion de autos en venta. -
-         * Login y registro de usuario con dos niveles de permisos, con permisos de ruta y criptación de contraseña.
-         * CRUD y con e detalle que si eliminas u producto este no se destruye sino que que el false y no se muestra en la página. 
+   - Proyecto grupal del curso de Digital House. Se trata de gestion de autos en venta. -
+         * Login y registro de usuario con dos niveles de permisos de acceso.
+         * CRUD y con e detalle que si eliminas un producto este no se destruye sino que queda el false y no se muestra en la página. 
    - Tecnologías utilizadas: Node Js(Express), Mysql, Sequalize, HTML, CSS
 
 2. **[Compu Insumos](https://github.com/Sebastian-Velazquez/nodejs-mongodb-Boostrap-Compu-Insumos)**:
-   - Trabajo realizado para la venta de insumos informaticos. Cunta con login, registro, crud, panel de administrador. En el panel de administrador tiene para cambiar la imagen de perfil y restablecer tando la contraseña como el mail.
+   - Trabajo realizado para la venta de insumos informaticos. Cuenta con login, registro, CRUD, panel de administrador. En el panel de administrador tiene para cambiar la imagen de perfil y restablecer tando la contraseña como el mail.
    - Tecnologías utilizadas:Node Js(Express), Mongo DB Atlas, Mongoose, Bootstrap, HTML, CSS.
   
 3. **[Paosublimacion](https://paosublimacion.com.ar/)**:
-   - Trabajo realizado para la venta de insumos informaticos. Cunta con login, registro, crud, panel de administrador.
-        Este Panel de Adminsitrador cuanta con la función de agregar nuevas categorias y material, tambien de volver a recuperar lo productos que fueron eliminados (antes de dar de alta se va a edicióon para cambiar detalles como el stock y el precio). También cuenta con la función de cambiar el banner a gusto. 
+   - Trabajo realizado para la venta de productos sublimados. Cunta con login, registro, CRUD, panel de administrador.
+        Este Panel de Adminsitrador cuanta con la función de agregar nuevas categorias y material, tambien podes volver a recuperar lo productos que fueron eliminados (antes de dar de alta se va a edicióon para cambiar detalles, por ejemplo, como el stock y el precio). También cuenta con la función de cambiar el banner de inicio a gusto. 
    - Tecnologías utilizadas:Node Js(Express), Mongo DB Atlas, Mongoose, Bootstrap, HTML, CSS.
 
 4. **[Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress +](https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress/)**:
